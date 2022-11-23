@@ -103,5 +103,5 @@ theme: nexmoe
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://github.com/laishanhai1040/laishanhai1040.github.io.git
+  repo: git@github.com:laishanhai1040/laishanhai1040.github.io.git
   branch: main
